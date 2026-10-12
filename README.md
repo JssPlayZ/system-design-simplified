@@ -12,10 +12,11 @@ Each concept answers:
 | # | Concept | Interview question it answers | Status |
 |---|---------|-------------------------------|--------|
 | 01 | [Bloom Filter](concepts/01-bloom-filter.md) | "10 crore users. Is this username taken?" | ✅ |
-| 02 | Consistent Hashing | | ⏳ |
-| 03 | Caching & Eviction (LRU) | | ⏳ |
-| 04 | Load Balancing | | ⏳ |
-| 05 | Rate Limiting | | ⏳ |
+| 02 | [Connection Pooling](concepts/02-connection-pooling.md) | "What is connection pooling, and how big should the pool be?" | ✅ |
+| 03 | Consistent Hashing | | ⏳ |
+| 04 | Caching & Eviction (LRU) | | ⏳ |
+| 05 | Load Balancing | | ⏳ |
+| 06 | Rate Limiting | | ⏳ |
 
 ---
 
