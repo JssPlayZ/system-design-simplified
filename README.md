@@ -19,9 +19,10 @@ Each concept answers:
 | 06 | [Load Balancing](concepts/06-load-balancing.md) | "How do requests get split across 3 servers, and which strategy?" | ✅ |
 | 07 | [Rate Limiting](concepts/07-rate-limiting.md) | "Someone is spamming the Send OTP API. How do you stop them?" | ✅ |
 | 08 | [Database Sharding](concepts/08-database-sharding.md) | "50 crore rows, one DB can't keep up. How do you split it?" | ✅ |
-| 09 | CAP Theorem | | ⏳ |
+| 09 | [CAP Theorem](concepts/09-cap-theorem.md) | "Mumbai–Delhi link breaks. Keep accepting writes, or stop?" | ✅ |
 | 10 | Database Replication | | ⏳ |
 | 11 | Idempotency | | ⏳ |
+| 12 | Message Queues vs Pub/Sub | | ⏳ |
 
 ---
 
