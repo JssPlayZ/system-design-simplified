@@ -20,7 +20,7 @@ Each concept answers:
 | 07 | [Rate Limiting](concepts/07-rate-limiting.md) | "Someone is spamming the Send OTP API. How do you stop them?" | ✅ |
 | 08 | [Database Sharding](concepts/08-database-sharding.md) | "50 crore rows, one DB can't keep up. How do you split it?" | ✅ |
 | 09 | [CAP Theorem](concepts/09-cap-theorem.md) | "Mumbai–Delhi link breaks. Keep accepting writes, or stop?" | ✅ |
-| 10 | Database Replication | | ⏳ |
+| 10 | [Database Replication](concepts/10-database-replication.md) | "User updated their bio, refreshed, saw the old one. Why?" | ✅ |
 | 11 | Idempotency | | ⏳ |
 | 12 | Message Queues vs Pub/Sub | | ⏳ |
 
