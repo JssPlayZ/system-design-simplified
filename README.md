@@ -21,8 +21,10 @@ Each concept answers:
 | 08 | [Database Sharding](concepts/08-database-sharding.md) | "50 crore rows, one DB can't keep up. How do you split it?" | ✅ |
 | 09 | [CAP Theorem](concepts/09-cap-theorem.md) | "Mumbai–Delhi link breaks. Keep accepting writes, or stop?" | ✅ |
 | 10 | [Database Replication](concepts/10-database-replication.md) | "User updated their bio, refreshed, saw the old one. Why?" | ✅ |
-| 11 | Idempotency | | ⏳ |
+| 11 | [Idempotency](concepts/11-idempotency.md) | "Payment timed out, app retried. How do you charge only once?" | ✅ |
 | 12 | Message Queues vs Pub/Sub | | ⏳ |
+| 13 | Circuit Breaker | | ⏳ |
+| 14 | API Gateway | | ⏳ |
 
 ---
 
