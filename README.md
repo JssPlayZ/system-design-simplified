@@ -23,8 +23,10 @@ Each concept answers:
 | 10 | [Database Replication](concepts/10-database-replication.md) | "User updated their bio, refreshed, saw the old one. Why?" | ✅ |
 | 11 | [Idempotency](concepts/11-idempotency.md) | "Payment timed out, app retried. How do you charge only once?" | ✅ |
 | 12 | [Message Queues vs Pub/Sub](concepts/12-message-queues-vs-pubsub.md) | "Order placed: email, restaurant, analytics, invoices. Queue or pub/sub?" | ✅ |
-| 13 | Circuit Breaker | | ⏳ |
+| 13 | [Circuit Breaker](concepts/13-circuit-breaker.md) | "Payment service is down and checkout is dying with it. How do you stop the cascade?" | ✅ |
 | 14 | API Gateway | | ⏳ |
+| 15 | CDN | | ⏳ |
+| 16 | Database Indexing | | ⏳ |
 
 ---
 
