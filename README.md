@@ -26,7 +26,10 @@ Each concept answers:
 | 13 | [Circuit Breaker](concepts/13-circuit-breaker.md) | "Payment service is down and checkout is dying with it. How do you stop the cascade?" | ✅ |
 | 14 | [API Gateway](concepts/14-api-gateway.md) | "20 microservices. Should the app call all of them directly?" | ✅ |
 | 15 | [CDN](concepts/15-cdn.md) | "Servers in the US, images slow in India. Fix it without moving servers?" | ✅ |
-| 16 | Database Indexing | | ⏳ |
+| 16 | [Database Indexing](concepts/16-database-indexing.md) | "Login query on 10 lakh rows is slow. How do you speed it up?" | ✅ |
+| 17 | WebSockets vs Polling | | ⏳ |
+| 18 | Distributed Locks | | ⏳ |
+| 19 | Saga Pattern | | ⏳ |
 
 ---
 
